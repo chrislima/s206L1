@@ -1,3 +1,4 @@
+@starwars
 Feature: Executar testes funcionais nas APIs do Star Wars (swapi)
 
 
